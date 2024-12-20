@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Montevallo Mathematics and Men's Soccer</a>. lebdaouib@gmail.com
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
 
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
