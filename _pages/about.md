@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi, my name is Benjamin Lebdaoui. I am a mathematics major and soccer player at the University of Montevallo. I am a Moroccan-American first-generation college student with a passion for mathematics. I was previously set on becoming an engineer, which led me to get my AA in engineering and two internships in the field. I started out in Montevallo's math program with the intention of transferring after a year to get my engineering degree. However, a major knee injury that put my soccer career on hold and some guidance from a couple fantastic professors led me to discover my desire to pursue a Ph.D. in mathematics.
