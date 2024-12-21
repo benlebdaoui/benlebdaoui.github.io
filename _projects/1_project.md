@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamis of the LaCrosse Virus
+title: Dynamics of the LaCrosse Virus
 description: Undergraduate Research with Dr. Geroge Lytle
 img: assets/img/umlogo.avif
 importance: 1
