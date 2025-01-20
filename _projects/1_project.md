@@ -9,9 +9,8 @@ related_publications: false
 ---
 
 Here are some articles in Mathematics Modelling and Biology I am reading for background information:
-/assets/pdf/2018_BlackwoodChilds_LettersBioMath (2).pdf
-/assets/pdf/Day et al. 2023 - La Crosse virus neuroinvasive disease - the kids are not alright.pdf
-
+assets/pdf/2018_BlackwoodChilds_LettersBioMath (2).pdf
+assets/pdf/Day et al. 2023 - La Crosse virus neuroinvasive disease - the kids are not alright.pdf
 
 Research involves modelling the transmission of the mosquito-borne disease called the LaCrosse virus
 I'll update this project more as I go along with the research in the spring semester
