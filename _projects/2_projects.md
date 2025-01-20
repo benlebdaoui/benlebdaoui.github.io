@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Independent Study on Machine Learning
-description: This is my journey to studying ML
-img: assets/img/neural.net.avif
+description: 
+img: assets/img/neuralnet.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
