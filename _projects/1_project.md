@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 Here are some articles in Mathematics Modelling and Biology I am reading for background information:
-/assets/pdf/2018_BlackwoodChilds_LettersBioMath (1).pdf
+/assets/pdf/2018_BlackwoodChilds_LettersBioMath (2).pdf
 /assets/pdf/Day et al. 2023 - La Crosse virus neuroinvasive disease - the kids are not alright.pdf
 
 
