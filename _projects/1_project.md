@@ -5,12 +5,12 @@ description: Undergraduate Research with Dr. Geroge Lytle
 img: assets/img/umlogo.avif
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Here are some articles in Mathematics Modelling and Biology I am reading for background information:
-assets/pdf/2018_BlackwoodChilds_LettersBioMath(1).pdf
-assets/pdf/Dayetal.2023-LaCrossevirusneuroinvasivedisease-thekidsarenotalright.pdf
+/assets/pdf/2018_BlackwoodChilds_LettersBioMath (1).pdf
+/assets/pdf/Day et al. 2023 - La Crosse virus neuroinvasive disease - the kids are not alright.pdf
 
 
 Research involves modelling the transmission of the mosquito-borne disease called the LaCrosse virus
