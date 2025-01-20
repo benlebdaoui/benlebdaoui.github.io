@@ -12,4 +12,4 @@ Machine Learning is one of my research interests for graduate school, so I have 
 
 I started by going through this Mahcine Learning Introduction on LeetCode: [Intro to ML](https://leetcode.com/explore/featured/card/machine-learning-101/)
 
-Here is my first machine learning model. Note that this is not original, I did a tutorial on TensorFLow where it walked me through the process, and meaning of each function. [TensorFlow Tutorial ML model](https://github.com/benlebdaoui/benlebdaoui.github.io/raw/assets/pdf/tensorflow_practice01.pdf)
+Here is my first machine learning model. Note that this is not original, I did a tutorial on TensorFLow where it walked me through the process, and meaning of each function. [TensorFlow Tutorial ML model](assets/pdf/tensorflow_practice01.pdf)
