@@ -14,6 +14,8 @@ Dec 16, 2024: I started by going through this Mahcine Learning Introduction on L
 
 Dec 22, 2024: I am now through this TensorFlow tutorial, reading through the entire Beginner section along with all the hyperlinks along the way to learn the basics and vocabulary: [TensorFlow ML for Beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 
-Reading through these took a little over a month. Now that I feel like I know the basics, time to start the project.
+Jan 2, 2025: I made my first ML model using the Keras API by following the tutorial on TensorFlow (note this is not original): [Download ML Script](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assests/pdf/tensorflow_practice01.pdf)
+
+Jan 21, 2025: Reading through these took a little over a month. Now that I feel like I know the basics, time to start the project.
 
 
