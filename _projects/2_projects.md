@@ -12,6 +12,7 @@ Machine Learning is one of my research interests for graduate school, so I have 
 
 Dec 16, 2024: I started by going through this Mahcine Learning Introduction on LeetCode: [Intro to ML](https://leetcode.com/explore/featured/card/machine-learning-101/)  
 Dec 22, 2024: I am now through this TensorFlow tutorial, reading through the entire Beginner section along with all the hyperlinks along the way to learn the basics and vocabulary: [TensorFlow ML for Beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
-All of this took a little overa month. Now that I feel I know some of the basics, I am getting started on my project.
+
+All of this took a little over a month. Now that I feel I know some of the basics, I am getting started on my project.
 
 
