@@ -20,5 +20,5 @@ Jan 22, 2025: Here are two more ML models made through TensforFlow tutorials. Th
 [Download img Classification Model](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assests/pdf/imageclassification_practice01.pdf)  
 [Download txt Classification Model](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assests/pdf/textclassification_practice01.pdf)
 
-
+Jan 30, 2025: Went through the Kaggle tutorial in machine learning to go over the basics again and to do their tutorial exercises [Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
 
