@@ -14,3 +14,5 @@ Feb 9, 2025: I have finished cleaning and processing the data and creating the M
 [Download Premier League Match Predictor Code](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/pdf/premier_league_classification_predictor.pdf) 
 The only issue is that it requires someone to input lots of information manually for the model to work. I am going to create a database with all of the necessary information for each team, and then a user-friendly website, so that someone can simply select and a home and away team from a dropdown, and that will automatically input all necessary information to the function.
 
+Feb 13, 2025: I created the datasets necessary for automatic filling of the features required for the model, and then got those datasets connected to the model with Flask API. The model worked in a sense because it gave predictions, but there was such a strong bias for home teams that it never predicted a loss, even when inputting "home: Sheffield United" and "away: Manchester City" (the best team vs the worst team). I am now working on debugging that so it will predict losses as well as wins and draws.
+
