@@ -16,7 +16,7 @@ The only issue is that it requires someone to input lots of information manually
 
 Feb 13, 2025: I created the datasets necessary for automatic filling of the features required for the model, and then got those datasets connected to the model with Flask API. The model worked in a sense because it gave predictions, but there was such a strong bias for home teams that it never predicted a loss, even when inputting "home: Sheffield United" and "away: Manchester City" (the best team vs the worst team). I am now working on debugging that so it will predict losses as well as wins and draws.
 
-Feb 14, 2025: I fixed the problem by lowering the coefficient of the home advantage to 0.2 and increasing the coefficients for head to head stats and goals conceded. I'll upload the datasets and app.py than Flask ran on and start working on the front-end site.  
-[Download Head to Head Stats Dataset](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/head_to_head_stats.xls)  
-[Download Team Stats dataset](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/premier_league_2023_24.xls)  
-[Download Premier League Match Predictor Code](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/pdf/premier_league_classification_predictor.pdf) 
+Feb 14, 2025: I fixed the problem by lowering the coefficient of the home advantage to 0.2 and increasing the coefficients for head to head stats and goals conceded. I'll upload the datasets and app.py that Flask ran on and start working on the front-end site.  
+[Redirect Head to Head Stats Dataset](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/head_to_head_stats.xls)  
+[Redirect Team Stats dataset](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/premier_league_2023_24.xls)  
+[Download app.py](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/juptyer/app.py) 
