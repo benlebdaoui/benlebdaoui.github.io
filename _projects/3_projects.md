@@ -19,4 +19,5 @@ Feb 13, 2025: I created the datasets necessary for automatic filling of the feat
 [Redirect Team Stats dataset](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/premier_league_2023_24.xls)  
 
 Feb 14, 2025: I fixed the problem by lowering the coefficient of the home advantage to 0.2 and increasing the coefficients for head to head stats and goals conceded. Now all of the predictions that the model makes are pretty accurate, and now I'm working on the front-end site.  
+[Example Prediction](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/test_model.ipynb) 
 
