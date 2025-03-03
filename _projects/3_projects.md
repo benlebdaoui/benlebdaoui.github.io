@@ -21,5 +21,5 @@ Feb 13, 2025: I created the datasets necessary for automatic filling of the feat
 Feb 14, 2025: I fixed the problem by lowering the coefficient of the home advantage to 0.2 and increasing the coefficients for head to head stats and goals conceded. Now all of the predictions that the model makes are pretty accurate, and now I'm working on the front-end site.  
 [Example Prediction](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/jupyter/test_model.ipynb) 
 
-March 2,2025: I took some time to touch up on HTML and learn enough JavaScript to create a very basic interface to run the model. It is now completely working and uploaded to my GitHub as its own repo! You can use [this link](https://github.com/benlebdaoui/prem_predictor) to navigate to it to check out all the code as well as the datasets I created. Now I am going to learn how to use Render to turn it into an accessible site.
+March 2, 2025: I took some time to touch up on HTML and learn enough JavaScript to create a very basic interface to run the model. It is now completely working and uploaded to my GitHub as its own repo! You can use [this link](https://github.com/benlebdaoui/prem_predictor) to navigate to it to check out all the code as well as the datasets I created. Now I am going to learn how to use Render to turn it into an accessible site.
 
