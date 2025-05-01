@@ -1,8 +1,8 @@
 ---
 layout: page
-title: xG Calculator Projecy
+title: xG Calculator Project
 description: 
-img: assets/img/neuralnet.jpg
+img: assets/img/xG.jfif
 importance: 2
 category: work
 related_publications: false
