@@ -16,8 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Benjamin Lebdaoui. I am a mathematics major and soccer player at the University of Montevallo. I am a Moroccan-American first-generation college student with a passion for mathematics. I was previously set on becoming an engineer, which led me to get my AA in engineering and two internships in the field. I started out in Montevallo's math program with the intention of transferring after a year to get my engineering degree. However, a major knee injury that put my soccer career on hold and some guidance from a few fantastic professors led me to discover my desire to pursue a Ph.D. in Mathematics.
+Hi, I'm Ben and I am a soccer player and math major at the University of Montevallo.
 
-I have interests in both pure and applied mathematics. I think there is beauty in both the abstractness of topology as well as the applicability of statistics and PDE's. When I'm not playing poker or practicing my Python skills on Leetcode, I still dedicate a lot of time towards soccer. This is not only with my team commitments, but also countless hours of rehab and extra workouts for my knee injury so I can get back on the field. 
+I am a first-gen student and my primary focus entering college was strictly soccer. However, two knee surgeries and two redshirt years later, I've developed a strong passion for mathematics.
 
-I hold two jobs on campus, one as an office admin assistant, and one as a peer tutor. My role as a tutor has not only been beneficial for me in reviewing lots of introductory calculus, physics, and chemistry skills, but it has only shown me that I really do enjoy teaching. This, combined with my desire to spend the rest of my life learning has made me certain that one day I would love to become a professor. I want to help other first-gen students understand the seemingly confusing world of academia, so they too can find their place in it. I hope to one day be in a place to offer that guidance to those, like me, who need a little direction in their first years of undergrad.
+After graduating, I plan on pursuing a PhD in mathematics, and I am very interested in control theory, game theory, and data science.
+
+In my free time I love watching soccer, playing poker, and reading. I also try to practice programming through projects relating to soccer.
+
+
