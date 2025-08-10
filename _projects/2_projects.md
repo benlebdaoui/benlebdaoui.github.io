@@ -2,7 +2,7 @@
 layout: page
 title: Computational Math for Data Science
 description: 
-img: assets/img/emory.png
+img: assets/img/emory2.jpg
 importance: 2
 category: work
 related_publications: false
