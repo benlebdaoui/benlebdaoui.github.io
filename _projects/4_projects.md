@@ -8,5 +8,5 @@ category: work
 related_publications: false
 ---
 
-[xG Calculator repository](https://github.com/benlebdaoui/xg_project) 
+[xG Calculator repository](https://github.com/benlebdaoui/xg_project) (work in progress)
 
