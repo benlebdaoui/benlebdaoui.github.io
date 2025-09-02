@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational Math for Data Science
+title: Computational Math for Data Science REU
 description: 
 img: assets/img/emory2.jpg
 importance: 2
