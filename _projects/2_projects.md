@@ -12,5 +12,5 @@ related_publications: false
 
 [GitHub Repository](https://github.com/benlebdaoui/emory_reu): All codes used in final paper
 
-Paper is still being written, hopefully will be upon arXiv soon!
+Paper is still being written, hopefully will be up on arXiv soon!
 
