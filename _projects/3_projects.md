@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Premier League Match Predictor
-description: 
+description: Personal machine learning project
 img: assets/img/premlogo.jpg
 importance: 4
 category: work
