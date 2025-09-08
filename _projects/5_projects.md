@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMAP Mathematical Contest in Modeling 2025
-description: 
+description: Collaborative math competition
 img: assets/img/modeling.jpg
 importance: 3
 category: work
