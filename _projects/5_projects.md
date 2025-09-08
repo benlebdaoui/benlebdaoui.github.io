@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMAP MathematicalContest in Modelling 2025
+title: COMAP Mathematical Contest in Modeling 2025
 description: 
 img: assets/img/modeling.jpg
 importance: 3
