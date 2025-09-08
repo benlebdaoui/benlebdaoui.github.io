@@ -1,7 +1,7 @@
 ---
 layout: page
 title: xG Calculator Project
-description: 
+description: Personal computer vision project
 img: assets/img/xG.jfif
 importance: 5
 category: work
