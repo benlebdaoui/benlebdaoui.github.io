@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational Math for Data Science REU
-description: 
+description: Summer research internship at Emory
 img: assets/img/emory2.jpg
 importance: 2
 category: work
