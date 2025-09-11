@@ -20,7 +20,7 @@ Hi, I'm Ben and I am a soccer player and math major at the University of Monteva
 
 My primary focus entering college was soccer, and I had planned on becoming an engineer. However, two knee surgeries and two redshirt years later, I've developed a strong passion for mathematics.
 
-After graduating, I plan on pursuing a PhD in mathematics, and I am very interested in control theory, game theory, and data science. I currently do research in mathematical modeling, optimal control, and inverse problems.
+I am very interested in machine learning, control theory, game theory, and data science. I currently do research in mathematical modeling, optimal control, and inverse problems.
 
 In my free time I love watching soccer, playing poker, and reading. I also try to practice programming through projects relating to soccer.
 
