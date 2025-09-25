@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-<img width="600" height="300" alt="LACV Diagram" src="/assets/img/lacv_diagram.png" />
+<img width="600" height="300" alt="LACV Diagram" src="/assets/img/lacv_diagram_02.png" />
 
 This is the diagram we created for the transmission of the LaCrosse Virus. The mosqutios are in an SEI model and the hosts are in a SIR model.
 
