@@ -8,12 +8,10 @@ category: work
 related_publications: false
 ---
 
-<img width="600" height="300" alt="LACV Diagram" src="/assets/img/lacv_diagram_02.png" />
+Oral presentation walking through model development: [Dynamics of the LaCrosse Virus](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/UR_Day_Presentation.pdf)
 
-This is the diagram we created for the transmission of the LaCrosse Virus. The mosqutios are in an SEI model and the hosts are in a SIR model.
+Code for model simluations and optimal control problem almost done, will link soon.
 
-
-This doc contains the derived model and tables defining every variable: [LACV Model](https://raw.githubusercontent.com/benlebdaoui/benlebdaoui.github.io/main/assets/pdf/lax_research.pdf) 
-
+Paper for senior thesis in progress, will link soon.
 
 
