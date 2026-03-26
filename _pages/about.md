@@ -20,6 +20,6 @@ Hi, I'm Ben and I am a soccer player and math major at the University of Monteva
 
 My primary focus entering college was soccer, and I had planned on becoming an engineer. However, two knee surgeries and two redshirt years later, I've developed a strong passion for mathematics.
 
-I am very interested in the intersection of dynamical systems and data science in different application spaces. I currently do research in mathematical modeling, optimal control, and inverse problems, and inn my free time I love watching soccer, playing poker, and reading.
+I am very interested in the intersection of dynamical systems and data science in different application spaces. I currently do research in mathematical modeling, optimal control, and inverse problems, and in my free time I love watching soccer, playing poker, and reading.
 
 
